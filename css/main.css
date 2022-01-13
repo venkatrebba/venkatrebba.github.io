@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+body {
+	background-image: "./images/venkat.jfif";
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
